@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>cst webpage</title>
+	<link rel="icon" href=""logo.jpg"" type="image/png">
+</head>
+<style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: white;
+        }
+        header {
+            background-color: black;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }    
+		nav {
+            background-color: red;
+			color: white;
+            padding: 10px 0;
+            text-align: center;
+        }
+		nav a {
+            color: #fff;
+            text-decoration: none;
+            padding: 10px 20px;
+        }
+		nav a:hover {
+            background-color: grey;
+        }
+		
+    </style>
+<body>
+    <header>
+        <h1>college of science and technology</h1>
+    </header>
+    <nav>
+        <a href="https://www.cst.edu.bt/index.php/en/">Home</a>
+        <a href="#">About</a>
+        <a href="#">Programs</a>
+        <a href="#">Admissions</a>
+        <a href="#">Contact</a>
+    </nav>
+	<img src="cstground.jpg" alt="cst ground" width="100%" height="100%"> 
+        <h2>About Us</h2>
+        <p>Welcome to My College! where you can wifi and do your own thing like me doing my own shit</p>
+   
+        <h2>Programs Offered</h2>
+        <ul>
+            <li>Information Technology</li>
+            <li>Civil</li>
+            <li>Electrical</li>
+        </ul>
+    
+        <h2>Admissions</h2>
+        <p>If you are interested in joining our college, please visit our admissions page for more information.</p>
+    
+        <h2>Contact Us</h2>
+        <p>Feel free to reach out to us via email or phone for any inquiries.</p>
+        <p>Email: 567@9.com</p>
+        <p>Phone: 17460596</p>
+		<footer>
+        <p>© 2024 College of Science and Technology</p>
+        </footer>
+    
+    
+</body>
+</html>
